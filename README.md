@@ -15,6 +15,7 @@ Follow [Gitlab Monitoring Prometheus](https://docs.gitlab.com/ee/administration/
 - sidekiq
 - node_exporter
 - gitlab_exporter
+- Start [gitlab-usage-exporter](https://github.com/onecmd/gitlab-usage-exporter)
 
 If use external redis and postgrsql, then modify it as needed.
 
